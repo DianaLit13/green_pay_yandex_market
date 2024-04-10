@@ -3,6 +3,10 @@
 This project is an adaptive landing page designed specifically for showcasing products on Yandex Market. 
 The landing page is optimized to provide a seamless browsing experience across various devices and screen sizes.
 
+# Preview: 
+
+[Check it out](https://raw.githack.com/DianaLit13/green_pay_yandex_market/main/index.html)
+
 # Features:
 
 - Adaptive Design: The landing page is designed to adapt seamlessly to different screen sizes, ensuring optimal viewing experience on desktops, tablets, and mobile devices.
